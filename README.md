@@ -32,6 +32,10 @@
 
 Projeto para teste de proeficiencia em React pela empresa SL7 Tecnologia
 
+#Algumas melhorias
+<li>Responsividade</li>
+<li>Utilização de TailwindCSS</li>
+
 
 ## :rocket: Technologies ##
 
@@ -41,6 +45,9 @@ The following tools were used in this project:
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
+
+##VEJA O PROJETO FUNCIONANDO
+<a href="https://sl7-react-winnicius-moura.vercel.app/" target="_blank">Clique aqui</a>
 
 ## :white_check_mark: Requirements ##
 

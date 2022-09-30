@@ -18,7 +18,7 @@ export function Input(props:InputProps){
                 type='text'
                 name="text"
                 />
-                <div className="w-full h-32 py-3 px-4 bg-zinc-900 text-sm text-white">
+                <div className="w-full h-32 py-3 px-4 bg-zinc-900 text-sm text-white rounded-md">
                     <p>
                         {text} 
                     </p>

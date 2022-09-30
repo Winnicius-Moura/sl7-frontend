@@ -18,12 +18,12 @@ export function NewInputRedux(props: NewInputProps){
     return (
         <div>
             <input value={text} onChange={(event)=> setText(event.target.value)} type="text" name="note" placeholder="Digite o texto"
-            className="bg-zinc-900 py-3 px-4 rounded text-sm placeholder:text-zinc-500 text-white mt-20 mb-5" />
+            className="bg-zinc-900 py-3 px-4 rounded text-sm placeholder:text-zinc-500 text-white mt-20 mb-5 mr-2" />
             <button 
-            className="py-1 px-2 bg-violet-500 text-white hover:bg-violet-600 rounded-md items-center"
+            className="py-2 px-2 bg-violet-500 text-white hover:bg-violet-600 rounded-md items-center"
             onClick={() => dispatch(addText(text))}>Add Texto</button>
 
-            <div className="w-58 h-32 py-3 px-4 bg-zinc-900 text-sm text-white">
+            <div className="w-58 h-32 py-3 px-4 bg-zinc-900 text-sm text-white rounded-md">
                 <ul>
                     <li>
                     {
