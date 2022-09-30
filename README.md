@@ -8,14 +8,14 @@
 
 <h1 align="center">SL7 Tecnologia - Teste de Proeficiencia React</h1>
 
+<img alt="Imagem da pagina inicial do projeto" src="./src/assets/capaReadme.png">
+
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/Winnicius-Moura/web?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/Winnicius-Moura/web?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Winnicius-Moura/web?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/Winnicius-Moura/web?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Winnicius-Moura/web?color=56BEB8" /> -->
 
@@ -44,7 +44,7 @@
 
 ## :dart: About ##
 
-Describe your project
+Projeto para teste de proeficiencia em React pela empresa SL7 Tecnologia
 
 
 ## :rocket: Technologies ##
@@ -54,6 +54,7 @@ The following tools were used in this project:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 ## :white_check_mark: Requirements ##
 
@@ -77,7 +78,7 @@ $ npm run dev
 # The server will initialize in the <http://127.0.0.1:5173/>
 ```
 
-Made with :heart: by <a href="https://github.com/{{Winnicius-Moura}}" target="_blank">{{WNN}}</a>
+Made with :heart: by <a href="https://github.com/Winnicius-Moura" target="_blank">{{WNN}}</a>
 
 &#xa0;
 

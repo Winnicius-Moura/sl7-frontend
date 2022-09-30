@@ -1,6 +1,7 @@
 import './styles/main.css';
 import logoImg from './assets/sl7Logo.png';
 import { Input } from './components/CreateNewInput';
+import { NewInputRedux } from './components/NewInputRedux';
 
 function App(){
   return (
@@ -12,6 +13,8 @@ function App(){
 
       <div className='flex flex-col gap-10 lg:flex-row'>
         <Input />
+
+        <NewInputRedux name={''}/>
 
       </div>
       

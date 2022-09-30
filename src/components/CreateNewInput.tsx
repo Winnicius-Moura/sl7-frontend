@@ -5,7 +5,7 @@ interface InputProps extends InputHTMLAttributes<HTMLInputElement> {}
 export function Input(props:InputProps){
 
     const [text, setText] = useState('')
-    
+ 
     return (
         <div>
             <div>
