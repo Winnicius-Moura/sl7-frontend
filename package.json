@@ -2,6 +2,7 @@
   "name": "web",
   "private": true,
   "version": "0.0.0",
+  "homepage": "sl7-frontend/",
   "type": "module",
   "scripts": {
     "dev": "vite",
