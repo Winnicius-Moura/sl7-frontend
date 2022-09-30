@@ -45,6 +45,7 @@ The following tools were used in this project:
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [ViteJS](https://vitejs.dev/)
 
 ##VEJA O PROJETO FUNCIONANDO
 <a href="https://sl7-react-winnicius-moura.vercel.app/" target="_blank">Clique aqui</a>
@@ -57,10 +58,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Winnicius-Moura/web
+$ git clone https://github.com/Winnicius-Moura/sl7-react
 
 # Access
-$ cd web
+$ cd sl7-react
 
 # Install dependencies
 $ npm install
