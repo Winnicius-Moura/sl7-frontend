@@ -10,20 +10,6 @@
 
 <img alt="Imagem da pagina inicial do projeto" src="./src/assets/capaReadme.png">
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Winnicius-Moura/web?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Winnicius-Moura/web?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Winnicius-Moura/web?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Winnicius-Moura/web?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Winnicius-Moura/web?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Winnicius-Moura/web?color=56BEB8" /> -->
-</p>
-
 <!-- Status -->
 
 <!-- <h4 align="center"> 
