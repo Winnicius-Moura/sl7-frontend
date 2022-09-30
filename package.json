@@ -1,8 +1,8 @@
 {
-  "name": "web",
+  "name": "sl7-frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "web/",
+  "homepage": "sl7-frontend/",
   "type": "module",
   "scripts": {
     "dev": "vite",
